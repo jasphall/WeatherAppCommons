@@ -1,4 +1,4 @@
-package com.sikorski.weatherapp.aggregator.utils
+package com.sikorski.weatherapp.commons.utils
 
 import com.sikorski.weatherapp.commons.utils.StringFormatter
 import spock.lang.Specification
